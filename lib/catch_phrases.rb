@@ -11,4 +11,4 @@ end
 
 
 def link 
-  status = ""
+  status = 
